@@ -4,7 +4,9 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 
 Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
-Confir tudo o que temos no nosso YouTube. É grátis!
+Confir tudo o que temos no nosso YouTube. É grátis! Segue o link:
+
+[Curso Git 2025](http://youtube.com/@teomewhy)
 
 ## Fluxo de trabalho Git local
 
